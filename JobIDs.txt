@@ -2,3 +2,10 @@ JOB NO. ATCI-4531529-S1757902 
 JOB NO. ATCI-4442044-S1733248 
 JOB NO. ATCI-4276160-S1664628 
  JOB NO. ATCI-4213095-S1685018 
+
+Oracle		232060	Oracle Cloud@Customer and Oracle Cloud Infrastructure Specialist	
+Oracle		243414	Cloud Support Engineer	
+Oracle		243419	Cloud Support Engineer	
+Oracle		246771	Member of Technical Staff - OCI	
+Oracle		249398	System Administrator 2-IT	
+
